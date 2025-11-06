@@ -1,3 +1,6 @@
 decorate the files and bug-fixes
 
 add git graph for showing visual 
+
+
+add footer note 
