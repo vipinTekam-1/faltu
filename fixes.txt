@@ -12,3 +12,5 @@ day time is comming
 
 
 fix first pink mode  for  pinkmode
+
+another mode  message for purple mode
