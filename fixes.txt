@@ -9,3 +9,6 @@ add footer note
 
  this is a login page features  
 day time is comming
+
+
+fix first pink mode  for  pinkmode
