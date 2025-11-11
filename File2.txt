@@ -3,7 +3,5 @@ this is my file 2
 
 <<<<<<< HEAD
   add another  marketing message sectiongi
-=======
 
-  changes the  branches for checking how to work in my files and how to  response 
   
