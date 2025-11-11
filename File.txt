@@ -1,1 +1,10 @@
 this is my file first
+
+ merating objects: 19, done.
+Counting objects: 100% (19/19), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (15/15), done.
+Writing objects: 100% (19/19), 1.64 KiB | 336.00 KiB/s, done.
+Total 19 (delta 5), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (5/5), done.
+To https://github.com/vipinTekam-1/faltu.git
